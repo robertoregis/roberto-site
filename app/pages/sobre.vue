@@ -43,7 +43,7 @@ useHead({
         <div class="col-span-1 mt-4">
           <p class="text-sm text-white/70 leading-relaxed max-w-2xl">
             No frontend, foco em interfaces claras, responsivas e previsíveis,
-            área onde concentrei grande parte da minha experiência profissional.
+            área onde concentrei a maior parte da minha experiência profissional.
             Gosto de criar experiências que façam sentido para o usuário,
             mantendo o código organizado, reutilizável e fácil de evoluir.
           </p>
@@ -61,9 +61,10 @@ useHead({
         <div class="col-span-1 mt-4">
           <p class="text-sm text-white/70 leading-relaxed max-w-2xl">
             No backend, valorizo lógica clara, regras bem definidas e estruturas
-            que facilitem manutenção e escalabilidade. É uma área que gosto
-            especialmente de construir, buscando entender o fluxo completo
-            da aplicação antes de implementar soluções.
+            que facilitem manutenção e escalabilidade. É uma área que venho
+            explorando com profundidade em projetos pessoais e profissionais,
+            buscando entender o fluxo completo da aplicação antes de implementar
+            soluções.
           </p>
         </div>
       </div>
@@ -96,8 +97,8 @@ useHead({
         <div class="col-span-1 mt-4">
           <p class="text-sm text-white/70 leading-relaxed max-w-2xl">
             No desenvolvimento mobile, busco simplicidade, desempenho e boa
-            usabilidade. Gosto de ver aplicações ganhando forma no celular,
-            respeitando as limitações do dispositivo e o uso real no dia a dia.
+            usabilidade. Tenho boa base técnica em mobile, com experiência
+            principalmente em projetos próprios e fases de validação.
           </p>
         </div>
       </div>

@@ -43,29 +43,17 @@
       id: 2,
       title: 'Gerenciador de compras colaborativo',
       description:
-        'Aplicação web para gerenciamento de compras em tempo real, permitindo colaboração simultânea entre usuários. Desenvolvido com Nuxt e Supabase, explorando sincronização de dados, permissões e experiência colaborativa. Planejada uma versão mobile.',
+        'Aplicação web para gerenciamento de compras em tempo real, permitindo colaboração simultânea entre usuários. Desenvolvido com Nuxt e Supabase, explorando sincronização de dados, permissões e experiência colaborativa. Era para iniciar 2026 no ar, mas sofreu atraso por força maior. Planejada uma versão mobile.',
       image: '/projeto-compras.png',
       status: 'Projeto pessoal — em desenvolvimento',
-      links: [
-        {
-          label: 'GitHub',
-          url: 'https://github.com/seu-usuario/seu-repositorio'
-        }
-      ]
     },
     {
       id: 3,
       title: 'Jogo de cartas multiplayer',
       description:
-        'Jogo de cartas de sobrevivência com suporte a multiplayer em tempo real. O projeto utiliza WebSocket para sincronização de estado, controle de turnos e lógica estratégica entre jogadores.',
+        'Jogo de cartas de sobrevivência com suporte a multiplayer em tempo real. O projeto utiliza WebSocket para sincronização de estado, controle de turnos e lógica estratégica entre jogadores. Planejamento para está no ar em feveiro a março de 2026.',
       image: '/projeto-jogo.png',
       status: 'Projeto pessoal — em fase final',
-      links: [
-        {
-          label: 'GitHub',
-          url: 'https://github.com/seu-usuario/seu-repositorio'
-        }
-      ]
     },
     {
       id: 4,
