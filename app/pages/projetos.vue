@@ -30,7 +30,7 @@
       title: 'Gerenciador multi-API',
       description:
         'Projeto pessoal focado em padronizar o consumo de múltiplas APIs escritas em diferentes linguagens e frameworks. O sistema integra serviços desenvolvidos em Express, NestJS, Flask, Django, Laravel, Spring Boot e Fiber, explorando organização, testes e consistência entre stacks distintas.',
-      image: '/projeto-apis.png',
+      image: 'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/projeto-apis.png',
       status: 'Projeto pessoal — em desenvolvimento (código disponível)',
       links: [
         {
@@ -44,7 +44,7 @@
       title: 'Gerenciador de compras colaborativo',
       description:
         'Aplicação web para gerenciamento de compras em tempo real, permitindo colaboração simultânea entre usuários. Desenvolvido com Nuxt e Supabase, explorando sincronização de dados, permissões e experiência colaborativa. Era para iniciar 2026 no ar, mas sofreu atraso por força maior. Planejada uma versão mobile.',
-      image: '/projeto-compras.png',
+      image: 'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/projeto-compras.png',
       status: 'Projeto pessoal — em desenvolvimento',
     },
     {
@@ -52,7 +52,7 @@
       title: 'Jogo de cartas multiplayer',
       description:
         'Jogo de cartas de sobrevivência com suporte a multiplayer em tempo real. O projeto utiliza WebSocket para sincronização de estado, controle de turnos e lógica estratégica entre jogadores. Planejamento para está no ar em feveiro a março de 2026.',
-      image: '/projeto-jogo.png',
+      image: 'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/projeto-jogo.png',
       status: 'Projeto pessoal — em fase final',
     },
     {
@@ -60,7 +60,7 @@
       title: 'Sistema de gestão de pessoas (RH)',
       description:
         'Sistema de RH desenvolvido para cliente, envolvendo gestão de dados, fluxos administrativos e processos internos. Atuo como responsável pelo desenvolvimento e manutenção da aplicação, trabalhando de forma full stack com Nuxt no frontend e backend.',
-      image: '/projeto-rh.png',
+      image: 'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/projeto-rh.png',
       status: 'Projeto profissional — confidencial'
     },
     {
@@ -68,7 +68,7 @@
       title: 'Plataforma de leads integrada (web e mobile)',
       description:
         'Projeto profissional voltado ao segmento de leads, integrando painel web e aplicação mobile. Atuei no desenvolvimento das interfaces, comunicação entre sistemas e definição da estrutura técnica da solução.',
-      image: '/projeto-leads.png',
+      image: 'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/projeto-leads.png',
       status: 'Projeto profissional — confidencial'
     },
     {
@@ -76,7 +76,7 @@
       title: 'Sistema de gestão esportiva',
       description:
         'Atuação em ambiente corporativo no desenvolvimento de interfaces para um sistema de gestão esportiva. Fui responsável pelo frontend, focando em usabilidade, organização visual e manutenção contínua das aplicações.',
-      image: '/projeto-esporte.png',
+      image: 'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/projeto-esporte.png',
       status: 'Experiência profissional'
     }
   ])

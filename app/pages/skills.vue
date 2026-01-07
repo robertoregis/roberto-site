@@ -335,8 +335,8 @@
         'Aprendizado contínuo'
       ],
       images: [
-        '/autodidata.png',
-        '/autodidata-2.png'
+        'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/autodidata-2.png',
+        'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/autodidata.png'
       ]
     },
     {
@@ -349,8 +349,8 @@
         'Solução'
       ],
       images: [
-        '/resolucao.png',
-        '/resolucao-2.png'
+        'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/resolucao.png',
+        'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/resolucao-2.png'
       ]
     },
     {
@@ -363,8 +363,8 @@
         'Empatia'
       ],
       images: [
-        '/comunicacao.png',
-        '/comunicacao-2.png'
+        'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/comunicacao.png',
+        'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/comunicacao-2.png'
       ]
     },
     /*{
@@ -391,8 +391,8 @@
         'Transparência'
       ],
       images: [
-        '/prazo.png',
-        '/prazo-2.png'
+        'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/prazo.png',
+        'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/prazo-2.png'
       ]
     },
     {
@@ -405,8 +405,8 @@
         'Consistência'
       ],
       images: [
-        '/decisao.png',
-        '/decisao-2.png'
+        'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/decisao.png',
+        'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/decisao-2.png'
       ]
     },
     {
@@ -419,8 +419,8 @@
         'Aprendizado'
       ],
       images: [
-        '/liderenca.png',
-        '/liderenca-2.png'
+        'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/liderenca.png',
+        'https://exgmtkkoxyguuojschoe.supabase.co/storage/v1/object/public/portfolio/liderenca-2.png'
       ]
     }
   ])
